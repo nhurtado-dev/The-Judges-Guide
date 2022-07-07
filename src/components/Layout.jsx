@@ -30,7 +30,7 @@ function Header({ navigation }) {
       className={clsx(
         'sticky top-0 z-50 flex flex-wrap items-center justify-between bg-white px-4 py-5 shadow-md shadow-slate-900/5 transition duration-500 dark:shadow-none sm:px-6 lg:px-8',
         {
-          'dark:bg-slate-900/95 dark:backdrop-blur dark:[@supports(backdrop-filter:blur(0))]:bg-slate-900/75':
+          'dark:bg-neutral-900/95 dark:backdrop-blur dark:[@supports(backdrop-filter:blur(0))]:bg-neutral-900/75':
             isScrolled,
           'dark:bg-transparent': !isScrolled,
         }
@@ -99,10 +99,10 @@ export function Layout({ children, title, navigation, tableOfContents }) {
 
       <div className="relative mx-auto flex max-w-8xl justify-center sm:px-2 lg:px-8 xl:px-12">
         <div className="hidden lg:relative lg:block lg:flex-none">
-          <div className="absolute inset-y-0 right-0 w-[50vw] bg-slate-50 dark:hidden" />
+          <div className="absolute inset-y-0 right-0 w-[50vw] bg-neutral-50 dark:hidden" />
           <div className="sticky top-[4.5rem] -ml-0.5 h-[calc(100vh-4.5rem)] overflow-y-auto py-16 pl-0.5">
             <div className="absolute top-16 bottom-0 right-0 hidden h-12 w-px bg-gradient-to-t from-slate-800 dark:block" />
-            <div className="absolute top-28 bottom-0 right-0 hidden w-px bg-slate-800 dark:block" />
+            <div className="absolute top-28 bottom-0 right-0 hidden w-px bg-neutral-900 dark:block" />
             <Navigation
               navigation={navigation}
               className="w-64 pr-8 xl:w-72 xl:pr-16"
@@ -114,7 +114,7 @@ export function Layout({ children, title, navigation, tableOfContents }) {
             {(title || section) && (
               <header className="mb-9 space-y-1">
                 {section && (
-                  <p className="font-display text-sm font-medium text-sky-500">
+                  <p className="font-display text-sm font-medium text-amber-400">
                     {section.title}
                   </p>
                 )}
@@ -176,7 +176,7 @@ export function Layout({ children, title, navigation, tableOfContents }) {
                           <a
                             className={clsx(
                               isActive(section)
-                                ? 'text-sky-500'
+                                ? 'text-amber-400'
                                 : 'font-normal text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300'
                             )}
                           >
@@ -192,7 +192,7 @@ export function Layout({ children, title, navigation, tableOfContents }) {
                                 <a
                                   className={
                                     isActive(subSection)
-                                      ? 'text-sky-500'
+                                      ? 'text-amber-400'
                                       : 'hover:text-slate-600 dark:hover:text-slate-300'
                                   }
                                 >

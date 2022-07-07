@@ -11,7 +11,7 @@
   --docsearch-modal-shadow: theme('boxShadow.xl');
   --docsearch-searchbox-height: 3rem;
   --docsearch-hit-color: theme('colors.slate.700');
-  --docsearch-hit-active-color: theme('colors.sky.600');
+  --docsearch-hit-active-color: theme('colors.amber.600');
   --docsearch-hit-active-background: theme('colors.slate.100');
   --docsearch-footer-height: 3rem;
   --docsearch-border-color: theme('colors.slate.200');
@@ -35,7 +35,7 @@
   --docsearch-modal-shadow: 0 0 0 1px theme('colors.slate.700'),
     theme('boxShadow.xl');
   --docsearch-hit-color: theme('colors.slate.300');
-  --docsearch-hit-active-color: theme('colors.sky.400');
+  --docsearch-hit-active-color: theme('colors.amber.400');
   --docsearch-hit-active-background: rgb(51 65 85 / 0.3);
   --docsearch-border-color: rgb(148 163 184 / 0.1);
   --docsearch-heading-color: theme('colors.white');
