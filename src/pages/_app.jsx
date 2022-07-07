@@ -11,7 +11,7 @@ const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Home', href: '/' },
-      { title: 'Disclaimer', href: '/docs/installation' },
+      { title: 'Disclaimer', href: '/docs/disclaimer' },
     ],
   },
   {
@@ -20,20 +20,20 @@ const navigation = [
       { title: 'Penalties', href: '/docs/penalties' },
       { title: 'Procedural Errors', href: '/docs/procedural-errors' },
       { title: 'Tardiness', href: '/docs/tardiness' },
-      { title: 'Deck & Deck List Errors', href: '/docs/introduction-to-string-theory' },
-      { title: 'Drawing Extra Cards', href: '/docs/the-butterfly-effect' },
-      { title: 'Marked Cards', href: '/docs/introduction-to-string-theory'},
-      { title: 'Slow Play', href: '/docs/introduction-to-string-theory' },
-      { title: 'Unsporting Conduct', href: '/docs/introduction-to-string-theory' },
+      { title: 'Deck & Deck List Errors', href: '/docs/deck-&-deck-list-errors' },
+      { title: 'Drawing Extra Cards', href: '/docs/drawing-extra-cards' },
+      { title: 'Marked Cards', href: '/docs/marked-cards'},
+      { title: 'Slow Play', href: '/docs/slow-play' },
+      { title: 'Unsporting Conduct', href: '/docs/unsporting-conduct' },
     ],
   },
   {
     title: 'Gameplay',
     links: [
-      { title: 'The Damage Step', href: '/docs/writing-plugins' },
-      { title: 'Reparable Gamestates', href: '/docs/neuralink-integration' },
-      { title: 'Fast Effect Timing Chart', href: '/docs/temporal-paradoxes' },
-      { title: 'End of Match Procedures', href: '/docs/testing' },
+      { title: 'The Damage Step', href: '/docs/the-damage-step' },
+      { title: 'Reparable Gamestates', href: '/docs/reparable-gamestates' },
+      { title: 'Fast Effect Timing Chart', href: '/docs/fast-effect-timing-chart' },
+      { title: 'End of Match Procedures', href: '/docs/end-of-match-procedures' },
     ],
   },
 ]

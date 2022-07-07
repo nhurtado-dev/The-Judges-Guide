@@ -1,0 +1,1 @@
+![fast effect timing chart](https://img.yugioh-card.com/en/wp-content/uploads/2021/05/T-Flowchart_EN-US.jpg)

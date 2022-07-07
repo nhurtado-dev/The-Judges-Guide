@@ -11,7 +11,7 @@ Tardiness penalties should never be upgraded after repeat infractions.
 
 ---
 
-## T – Major: (Game Loss)
+## Major: (Game Loss)
 
 This penalty is appropriate when a Duelist is not in their seat and ready to begin after three minutes
 has passed from the beginning of the round.
