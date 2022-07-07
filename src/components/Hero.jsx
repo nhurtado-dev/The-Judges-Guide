@@ -47,9 +47,8 @@ export function Hero() {
               <div className="mt-8 flex space-x-4 md:justify-center lg:justify-start">
                 <ButtonLink href="/">Get started</ButtonLink>
                 <ButtonLink
-                  href="/"
-                  variant="secondary"
                   href="https://github.com/Impalatore/The-Judges-Guide"
+                  variant="secondary"
                 >
                   View on GitHub
                 </ButtonLink>
