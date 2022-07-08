@@ -8,7 +8,7 @@ regardless of whether the person committing the infraction was aware it was not 
 
 ---
 
-# Caution
+## Caution
 
 A Caution can be used instead of a Warning, for Tier 1 events. The Caution is intended as a teaching tool for newer players, and does not need to be tracked on the Match Result Slip. Judges should share information on Cautions amongst themselves, to ensure players are being properly educated.
 
