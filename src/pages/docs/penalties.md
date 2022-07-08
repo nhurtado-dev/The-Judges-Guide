@@ -65,8 +65,9 @@ The infraction does not need to have occurred inside the venue as long as it imp
 Konami reserves the right to suspend players from Konami’s Organized Play program for misbehavior not connected to a specific event.
 
 There are two types of Disqualification penalties:
-• Disqualification (With Prize): This penalty is only given out through the upgrade process. A player who commits the same infraction multiple times throughout an event and has their penalty upgraded to a Disqualification, is always with prize unless the upgrade was due to an Unsporting Conduct infraction.
-• Disqualification (Without Prize): This penalty is given out when a person intentionally breaks tournament policies. This includes, but is not limited to, Cheating and Unsporting Conduct behavior.
+
+* Disqualification (With Prize): This penalty is only given out through the upgrade process. A player who commits the same infraction multiple times throughout an event and has their penalty upgraded to a Disqualification, is always with prize unless the upgrade was due to an Unsporting Conduct infraction.
+* Disqualification (Without Prize): This penalty is given out when a person intentionally breaks tournament policies. This includes, but is not limited to, Cheating and Unsporting Conduct behavior.
 
 The person will be dropped from the event, and in most cases, required to leave the venue. Only the Head Judge may disqualify a person from an event.
 

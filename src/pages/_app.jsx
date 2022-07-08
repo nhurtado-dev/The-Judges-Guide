@@ -31,7 +31,7 @@ const navigation = [
     title: 'Gameplay',
     links: [
       { title: 'The Damage Step', href: '/docs/the-damage-step' },
-      { title: 'Reparable Gamestates', href: '/docs/reparable-gamestates' },
+      { title: 'Gamestates', href: '/docs/gamestates' },
       { title: 'Fast Effect Timing Chart', href: '/docs/fast-effect-timing-chart' },
       { title: 'End of Match Procedures', href: '/docs/end-of-match-procedures' },
     ],
