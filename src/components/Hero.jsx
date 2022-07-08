@@ -89,7 +89,7 @@ export function Hero() {
               </div>
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-amber-300 via-amber-300/70 to-yellow-300 opacity-10 blur-lg" />
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-amber-300 via-amber-300/70 to-yellow-300 opacity-10" />
-              <div className="relative rounded-2xl bg-[#0A101F]/80 ring-1 ring-white/10 backdrop-blur">
+              <div className="relative rounded-2xl bg-neutral-900 ring-1 ring-white/10 backdrop-blur">
                 <div className="absolute -top-px left-20 right-11 h-px bg-gradient-to-r from-amber-300/0 via-yellow-300/70 to-amber-300/0" />
                 <div className="absolute -bottom-px left-11 right-20 h-px bg-gradient-to-r from-blue-400/0 via-amber-400 to-blue-400/0" />
                 <div className="pl-4 pt-4">
