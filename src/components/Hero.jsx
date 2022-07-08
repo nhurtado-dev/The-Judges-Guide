@@ -11,7 +11,8 @@ import blurIndigoImage from '@/images/blur-indigo.png'
 const codeLanguage = 'javascript'
 const code = `console.info(
     'Made with ❤️ in Peru',
-    'Author: Impalatore #2159'
+    'Author: Impalatore #2159',
+    'Current Version: 1.0.0'
   );`
 
 const tabs = [
@@ -40,7 +41,7 @@ export function Hero() {
             </div>
             <div className="relative">
               <p className="inline bg-gradient-to-r from-amber-200 via-amber-400 to-amber-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                The Judges Guide.
+                THE JUDGES GUIDE.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
                 Project designed to help Yu-Gi-Oh! Judges that need access to
