@@ -9,9 +9,9 @@ If you would like to help improving this proyect, feel free to reach me via Disc
 \
 Here is the TODO list:
 
-* Card Search (Text/Rulings) via YGOrganization Database
-* DocSearch Implementation
-* Translations
+* [YGOrganization Database API](https://db.ygorganization.com/about/api) - Card Search (Text/Rulings)
+* [DocSearch](https://docsearch.algolia.com) - Implementation
+* Site Translation
 
 ---
 
