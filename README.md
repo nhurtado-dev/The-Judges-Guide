@@ -1,15 +1,20 @@
+<p align="center">
+  <img src="https://github.com/Impalatore/The-Judges-Guide/blob/master/src/images/JudgeLogo.png?raw=true" alt="App Logo" width="300"/>
+</p>
+
 # Note
 
-If you would like to help improving this project, feel free to reach me via Discord (Impalatore #2159).
+If you would like to help improving this proyect, feel free to reach me via Discord (Impalatore #2159).
 \
 \
 Here is the TODO list:
 
-* Card Search (Text/Rulings)
-* Documentation Search Bar
+* Card Search (Text/Rulings) via YGOrganization Database
+* DocSearch Implementation
 * Translations
 
 ---
+
 ## Getting started
 
 To get started, first install the npm dependencies:
