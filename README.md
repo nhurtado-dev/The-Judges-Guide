@@ -1,4 +1,4 @@
-#Note
+# Note
 
 If you would like to help improving this project, feel free to reach me via Discord (Impalatore #2159). Here is the TODO list:
 
